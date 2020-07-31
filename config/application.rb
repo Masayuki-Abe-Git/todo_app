@@ -11,6 +11,5 @@ module TodoApp
       g.helper false
       g.assets false
     end
-    
   end
 end
