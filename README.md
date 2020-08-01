@@ -4,8 +4,10 @@
 * LINEからtodoリストを作成することができる
 
 ## デプロイ先
+* https://todo-app-line.herokuapp.com/tasks/index
 
 ## 制作背景
+* 多くの人にとって身近なアプリケーションであるLINEを使用してtodoリストを作成できれば、より簡単にタスク管理ができると考え制作しました。 
 
 ## demo
 
