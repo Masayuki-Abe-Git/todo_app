@@ -17,7 +17,7 @@
 <img src = "https://user-images.githubusercontent.com/66289281/89096737-b71fc080-d413-11ea-8cfb-62ce5acb362e.jpg" width= "200px;" />
 * 作成したリストをこちらのページで確認できます https://todo-app-line.herokuapp.com/tasks/index
 <img src = "https://user-images.githubusercontent.com/66289281/89096733-a96a3b00-d413-11ea-8b72-b6a4bb000ad7.jpg" width= "200px;" />
-* 編集、削除することもできます
+*　編集、削除することもできます
 <img src = "https://user-images.githubusercontent.com/66289281/89096691-745de880-d413-11ea-87d4-27c6a223e18d.jpg" width= "200px;" />
 
 ## 工夫したポイント
