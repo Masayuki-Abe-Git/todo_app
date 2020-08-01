@@ -1,7 +1,8 @@
 # MY TODO
 
 ## 概要
-LINEからtodoリストを作成することができる
+### LINEからtodoリストを作成することができる
+
 
 Things you may want to cover:
 
