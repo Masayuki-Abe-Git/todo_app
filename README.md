@@ -1,7 +1,7 @@
 # MY TODO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+LINEからtodoリストを作成することができる
 
 Things you may want to cover:
 
