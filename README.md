@@ -26,8 +26,7 @@
 ## 工夫したポイント
 
 ## 使用技術
-* 使用言語
-Ruby, Ruby on Rails, Mysql, LINE-API, 
+* 使用言語 /n Ruby, Ruby on Rails, Mysql, LINE-API, 
 * ツール
 Visual Studio Code, Github
 
