@@ -23,33 +23,12 @@
 * 編集、削除することもできます
 <img src = "https://user-images.githubusercontent.com/66289281/89096691-745de880-d413-11ea-87d4-27c6a223e18d.jpg" width= "200px;" />
 
-## 工夫したポイント
-
 ## 使用技術
-* 使用言語: Ruby, Ruby on Rails
+* 言語: Ruby, Ruby on Rails
 * ツール: Visual Studio Code, Github
 * DB: MySQL
 * サーバー： Heroku
 
 ## 今後実装したい機能
-
-## DB設計
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ユーザー機能
+* お気に入り機能
