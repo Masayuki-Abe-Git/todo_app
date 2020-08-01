@@ -26,9 +26,10 @@
 ## 工夫したポイント
 
 ## 使用技術
-* 使用言語 \n Ruby, Ruby on Rails, Mysql, LINE-API, 
-* ツール
-Visual Studio Code, Github
+* 使用言語: Ruby, Ruby on Rails
+* ツール: Visual Studio Code, Github
+* DB: MySQL
+* サーバー： Heroku
 
 ## 今後実装したい機能
 
