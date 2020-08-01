@@ -13,11 +13,11 @@
 ## 実装機能
 
 <img src = "https://user-images.githubusercontent.com/66289281/89096737-b71fc080-d413-11ea-8cfb-62ce5acb362e.jpg
-"width="80px;" />
+" width= "80px;" />
 
 <img src = "https://user-images.githubusercontent.com/66289281/89096733-a96a3b00-d413-11ea-8b72-b6a4bb000ad7.jpg" width= "80px;" />
 
-<img src = "https://user-images.githubusercontent.com/66289281/89096691-745de880-d413-11ea-87d4-27c6a223e18d.jpg"width="80px; />
+<img src = "https://user-images.githubusercontent.com/66289281/89096691-745de880-d413-11ea-87d4-27c6a223e18d.jpg" width= "80px;" />
 
 ## 工夫したポイント
 
