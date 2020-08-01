@@ -25,7 +25,11 @@
 
 ## 工夫したポイント
 
-## 開発環境
+## 使用技術
+* 使用言語
+Ruby, Ruby on Rails, Mysql, LINE-API, 
+* ツール
+Visual Studio Code, Github
 
 ## 今後実装したい機能
 
