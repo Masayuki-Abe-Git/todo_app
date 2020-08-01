@@ -3,7 +3,19 @@
 ## 概要
 ### LINEからtodoリストを作成することができる
 
+## デプロイ先
 
+## 制作背景
+
+## demo
+
+## 工夫したポイント
+
+## 開発環境
+
+## 今後実装したい機能
+
+## DB設計
 Things you may want to cover:
 
 * Ruby version
