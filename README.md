@@ -13,7 +13,7 @@
 ## 実装機能
 <img src = "https://files.slack.com/files-pri/TBRRYLL4Q-F017X9S95KQ/img_20200801_161033.jpg" width="80px;" />
 <img src = "https://files.slack.com/files-pri/TBRRYLL4Q-F017P9EF00P/img_20200801_161228.jpg" width="80px;" />
-<img src = "https://files.slack.com/files-pri/TBRRYLL4Q-F017X9S95KQ/img_20200801_161033.jpg" />
+<img src = "https://user-images.githubusercontent.com/66289281/89096691-745de880-d413-11ea-87d4-27c6a223e18d.jpg" />
 
 
 
