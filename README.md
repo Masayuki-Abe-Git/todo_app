@@ -11,7 +11,7 @@
 * 多くの人にとって身近なアプリケーションであるLINEを使用してtodoリストを作成できれば、より簡単にタスク管理ができると考え制作しました。 
 
 ## 実装機能
-*　LINEを開いていただきこちらのQRコードを読み取ると、友達追加していただけます
+* LINEを開いていただきこちらのQRコードを読み取ると、友達追加していただけます
 <img src = "https://user-images.githubusercontent.com/66289281/89097198-cb65bc80-d417-11ea-9f1b-2781416dfce1.png" width= "200px;" />
 *　LINEからtodoリストを作成できます
 <img src = "https://user-images.githubusercontent.com/66289281/89096737-b71fc080-d413-11ea-8cfb-62ce5acb362e.jpg" width= "200px;" />
